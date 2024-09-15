@@ -22,5 +22,12 @@ ZCZC W01 99 L11 Assignment #01
 ZCZC W01 10 L41 TXT/mylog.txt related.
 ZCZC W01 99 L05 CLASSROOM/ZOOM meetings related
 ZCZC W02 10 L03 Github related
+ZCZC W02 99 L05 CLASSROOM/ZOOM meetings related
+ZCZC W02 99 L12 Assignment #02
+ZCZC W02 30 L26 GnuPG, key-gen, encrypt/decrypt.
 ZCZC W02 30 L06 References/Books/Documents/Browsing/GSGS related
 ZCZC W02 5  L41 TXT/mylog.txt related.
+ZCZC W02 99 L05 CLASSROOM/ZOOM meetings related
+ZCZC W02 15 L04 GitHub Pages related
+ZCZC W02 10 L41 TXT/mylog.txt related.
+
