@@ -18,5 +18,8 @@ These video helps me how to do more in bash.
 
 2. [Linux in 100 Seconds](https://youtu.be/rrB13utjYV4?si=Qwvef-Wz8N1Z3SNn) --- Learn the basics of the Linux kernel, how it relates to GNU, and essential Linux commands. These video helps me to learn what linux is.
 
+<h2>Week 03 </h2>
+1. [How to Create and Setup a Virtual Hard Disk on Windows 10](https://youtu.be/w2VSqTOQrxI?si=DS1Fbe9o1ApVMAn5) --- Learn how to create and setu a Virtual Hard Disk . This video help me to learn more about Virtual Hard Disk.
+
 <br>
 <hr>
