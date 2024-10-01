@@ -21,5 +21,8 @@ These video helps me how to do more in bash.
 <h2>Week 03 </h2>
 1. [How to Create and Setup a Virtual Hard Disk on Windows 10](https://youtu.be/w2VSqTOQrxI?si=DS1Fbe9o1ApVMAn5) --- Learn how to create and setu a Virtual Hard Disk . This video help me to learn more about Virtual Hard Disk.
 
+<h2>Week 04</h2>
+1. [Recording Week02: Protection and Security](https://youtu.be/QpmAKN9j2ks?si=PejIxTYoq8wfCWvw) --- Learn how to learn Protection and Security. This video helps me learn more in depth about Protection and Security in linux.
+ 
 <br>
 <hr>
