@@ -37,3 +37,8 @@ ZCZC W03 20 L06 References/Books/Documents/Browsing/GSGS related
 ZCZC W03 45 L99 Other (Sholat Jum'at)
 ZCZC W03 30 L32 YouTube: watching OS related topics
 ZCZC W03 60 L13 Assignment #03
+ZCZC W04 99 L02 CLASSROOM/ZOOM meetings related
+ZCZC W04 20 L01 SCELE/Discord related
+ZCZC W04 99 L09 Weekly Assignments
+ZCZC W04 20 L03 Github related
+ZCZC W04 8  L05 Quiz
