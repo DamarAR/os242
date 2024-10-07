@@ -24,5 +24,8 @@ These video helps me how to do more in bash.
 <h2>Week 04</h2>
 1. [Recording Week02: Protection and Security](https://youtu.be/QpmAKN9j2ks?si=PejIxTYoq8wfCWvw) --- Learn how to learn Protection and Security. This video helps me learn more in depth about Protection and Security in linux.
  
+<h2>Week 05</h2>
+1. [How to Clone a Virtual Machine in VirtualBox 6.1 - Easily clone and save your configuration on VMs] (https://youtu.be/FP4Frqe01JY?si=J8_tH0kgocizpo08) --- Learn how to clone a Virtual Machine. This video helps me do assignment 5 easily.
+
 <br>
 <hr>
