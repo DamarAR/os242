@@ -28,7 +28,10 @@ These video helps me how to do more in bash.
 1. [How to Clone a Virtual Machine in VirtualBox 6.1 - Easily clone and save your configuration on VMs] (https://youtu.be/FP4Frqe01JY?si=J8_tH0kgocizpo08) --- Learn how to clone a Virtual Machine. This video helps me do assignment 5 easily.
 
 <h2>Week 06</h2>
-1. [FANG Interview Question | Process vs Thread] (https://youtu.be/4rLW7zg21gI?si=D9bQJaMHekvcbhwM) --- Learn how do to Process and Threads. This video helps me learn for the upcoming quiz.
+1. [FANG Interview Question | Process vs Thread] (https://youtu.be/4rLW7zg21gI?si=D9bQJaMHekvcbhwM) --- Learn how to do Process and Threads. This video helps me learn for the upcoming quiz.
+
+<h2>Week 07</h2>
+1. [Deadlock in Operating System | GeeksforGeeks] (https://youtu.be/onkWXaXAgbY?si=ICYdxVBaZYc89R86) --- Learn how to do Deadlock. This video helps me learn about what is Deadlock.
 
 <br>
 <hr>
