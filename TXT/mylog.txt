@@ -58,3 +58,7 @@ ZCZC W07 40 L17 Assignment #07
 ZCZC W07 15 L43 TXT/myrank.tex related, including peer review.
 ZCZC W07 15 L41 TXT/mylog.txt related.
 ZCZC W07 10 L04 Github Pages related.
+ZCZC W08 99 L18 Assignment #08
+ZCZC W08 20 L43 TXT/myrank.tex related, including peer review.
+ZCZC W08 10 L43 TXT/mylog.txt related.
+ZCZC W08 10 L04 Github Pages related

@@ -33,5 +33,8 @@ These video helps me how to do more in bash.
 <h2>Week 07</h2>
 1. [Deadlock in Operating System | GeeksforGeeks] (https://youtu.be/onkWXaXAgbY?si=ICYdxVBaZYc89R86) --- Learn how to do Deadlock. This video helps me learn about what is Deadlock.
 
+<h2>Week 08</h2>
+1. [6. Chapter 5: Compiling a Cross Toolchain - How to build Linux From Scratch (LFS) 12.2 - Tutorial] (https://youtu.be/vMdPHpPiy4Q?si=nmTwpLbhQttlEHR1) --- Learn how to make LFS. This video helps me learn about making Linux from scratch.
+
 <br>
 <hr>
