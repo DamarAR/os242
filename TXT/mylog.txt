@@ -66,3 +66,7 @@ ZCZC W09 99 L19 Assignment #09
 ZCZC W09 15 L43 TXT/myrank.tex related, including peer review.
 ZCZC W09 10 L41 TXT/mylog.txt related
 ZCZC W09 10 L04 Github Pages related 
+ZCZC W10 99 L20 Assignment #10
+ZCZC W10 25 L43 TXT/myrank.tex related, including peer review.
+ZCZC W10 10 L41 TXT/mylog.txt related
+ZCZC W10 10 L04 Github Pages related

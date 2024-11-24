@@ -40,5 +40,8 @@ These video helps me how to do more in bash.
 <h2>Week 09</h2>
 1. [8. Chapter 7: Entering Chroot and Building Additional Temporary Tools - How to build Linux From Scra] (https://youtu.be/m6USND1vPhM?si=jzvGGqToTpLN5lDp) --- Learn how to make LFS. This video helps me compile and install packages easily.
 
+<h2>Week 10</h2>
+1. [9. Chapter 8: Installing Basic System Software - How to build Linux From Scratch (LFS) 12.2 - Tutori] (https://youtu.be/ReIeiTqYTGc?si=rfjb-dbI0oXNNKtT) --- Learn how to make LFS. This video help me understands how to compile more packages.
+
 <br>
 <hr>
